@@ -3,4 +3,4 @@
 In this I will be contributing projects related to **Microsoft SQL Server** 
 
 Excercises
-1) [Ex #1:](CSV to MS SQL Server/)
+1) [**Ex #1:**](CSV to MS SQL Server/)
