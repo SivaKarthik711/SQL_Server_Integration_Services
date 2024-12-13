@@ -9,4 +9,7 @@ While importing data from the SQL, some columns have varchar data type but excel
 
 
 While overwriting the pre existing data we need to delete the existing data, so we need to run a script top of data flow task
+
+![image](https://github.com/SivaKarthik711/SQL_Server_Integration_Services/blob/ee8fe956790cdfb2b3b66bab618def9c70838a49/Overwrite%20data%20to%20Excel%20file%20in%20SSIS/Screenshot%202024-12-13%20161958.png)
+
 ![image]()
