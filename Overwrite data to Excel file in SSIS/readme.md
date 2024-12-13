@@ -12,4 +12,4 @@ While overwriting the pre existing data we need to delete the existing data, so 
 
 ![image](https://github.com/SivaKarthik711/SQL_Server_Integration_Services/blob/ee8fe956790cdfb2b3b66bab618def9c70838a49/Overwrite%20data%20to%20Excel%20file%20in%20SSIS/Screenshot%202024-12-13%20161958.png)
 
-![image]()
+![image](https://github.com/SivaKarthik711/SQL_Server_Integration_Services/blob/1c93496a5aa35edd9f2db7029721e29ecc98423e/Overwrite%20data%20to%20Excel%20file%20in%20SSIS/Screenshot%202024-12-13%20161951.png)
